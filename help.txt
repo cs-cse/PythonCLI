@@ -1,0 +1,8 @@
+The following commands are available:
+ 
+1. ./task add          => add a todo item to the selected list
+2. ./task ls           => show all the todo items in the chosen list
+3. ./task del INDEX    => remove a todo item
+4. ./task done INDEX   => mark a todo item as completed
+5. ./task help         => prints usage
+6. ./task quit         => exit the application
