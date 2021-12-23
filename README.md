@@ -1,3 +1,5 @@
+# PythonCLI
+Command line program made using Python to keep track of day to day tasks with several functionalities.
 
  Todo Command Line Application
 Create a virtual environment (optional)
@@ -42,3 +44,4 @@ list.json
     list refers to the todo list name
     stores a list of todo item
     each todo item is a dict having title, created_at, and completed field.
+
